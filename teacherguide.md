@@ -97,3 +97,13 @@ Sam Warner - [@sjwarner_ on twitter](https://twitter.com/sjwarner_) - has create
 You could use it to make messages to be decoded, or get the young uns to make their own as a challenge for you.
 
 You could also look at other patterns that could be used to encode a message in a similar way - such as necklaces with two bead colours, or a tiled floor, or a barcode style system of stripes.
+
+## Curriculum Links
+
+#### UK
+KS2 - solve problems by decomposing them into smaller parts
+KS3 - understand how numbers can be represented in binary, and be able to carry out simple operations on binary numbers
+GCSE Computing - 
+OCR - Data representation - the use of binary codes to represent characters;
+AQA - Number bases, units of information, binary arithmetic, character encoding;
+EDEXCEL - understand that computers use binary to represent data, understand how computers encode characters
