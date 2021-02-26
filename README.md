@@ -1,13 +1,13 @@
-# The Parachute Message
+# El mensaje del paracaídas
 
-During the press conference with the release of the first Perseverance rover video and audio, Allen Chen revealed that there was a code hidden in the parachute, as well as the markings being useful for camera alignment.
+Durante la conferencia de prensa sobre el lanzamiento del primer video y audio del rover Perseverance, Allen Chen reveló que había un código oculto en el paracaídas, así como las marcas que eran útiles para la alineación de la cámara.
 
-This is a breakdown of how to solve that code in simple English. You can download the [whole thing as a printable PDF](https://github.com/tanyafish/parachute/blob/main/The%20Parachute%20Message.pdf), optimised for A4 paper.
+Este es un desglose de cómo resolver ese código en inglés. Puedes descargar [todo como un PDF imprimible] (https://github.com/tanyafish/parachute/blob/main/The%20Parachute%20Message.pdf), optimizado para papel A4.
 
-Feel free to reuse it for educational or personal purposes, but do not sell, resell, or use it for any other commercial purposes. It is licensed under the [Creative Commons CC-BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
+No dudes en reutilizarlo con fines educativos o personales, pero no lo vendas, revendas ni uses para ningún otro propósito comercial. Tiene la licencia [licencia Creative Commons CC-BY-NC 4.0] (https://creativecommons.org/licenses/by-nc/4.0/).
 
-If you have a translation for it, please open a pull request and I'll do a version with replaced text.
+Si tienes una traducción, abre una solicitud de extracción y haré una versión con texto reemplazado.
 
-Happy parachuting!
+¡Feliz paracaidismo!
 
 t xx
