@@ -12,6 +12,26 @@ Happy parachuting!
 
 t xx
 
+---
+
+#### Español
+
+# El mensaje del paracaídas
+
+Durante la conferencia de prensa sobre el lanzamiento del primer video y audio del rover Perseverance, Allen Chen reveló que había un código oculto en el paracaídas, así como las marcas que eran útiles para la alineación de la cámara.
+
+Este es un desglose de cómo resolver ese código en inglés. Puedes descargar [todo como un PDF imprimible](https://github.com/tanyafish/parachute/blob/main/The%20Parachute%20Message.pdf), optimizado para papel A4.
+
+No dudes en reutilizarlo con fines educativos o personales, pero no lo vendas, revendas ni uses para ningún otro propósito comercial. Tiene la [licencia Creative Commons CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Si tienes una traducción, abre un pull request (solicitud de extracción) y haré una versión con texto reemplazado.
+
+¡Feliz paracaidismo!
+
+t xx
+
+---
+
 # Het Parachute Bericht
 Tijdens de persbericht van de NASA met de eerste video met geluid van de Perseverance, onthulde Allen Chen dat er een code verstopt zat in de parachute. De markeringen waren ook handig om de camera's uit te lijnen.
 
@@ -22,4 +42,3 @@ Voel je vrij om het te gebruiken voor educatieve of persoonlijke toepassingen, m
 Als je een vertaling hebt, open dan een _pull request_ en dan maak ik een versie met vertaalde tekst.
 
 Happy parachuting!
-
