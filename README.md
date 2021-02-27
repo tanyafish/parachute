@@ -4,6 +4,8 @@ During the press conference with the release of the first Perseverance rover vid
 
 This is a breakdown of how to solve that code in simple English. You can download the [whole thing as a printable PDF](https://github.com/tanyafish/parachute/blob/main/The%20Parachute%20Message.pdf), optimised for A4 paper.
 
+There is a page-by-page [teachers guide with ideas and further activities online here.](https://github.com/tanyafish/parachute/blob/main/teacherguide.md)
+
 Feel free to reuse it for educational or personal purposes, but do not sell, resell, or use it for any other commercial purposes. It is licensed under the [Creative Commons CC-BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
 
 If you have a translation for it, please open a pull request and I'll do a version with replaced text.
@@ -22,7 +24,7 @@ Durante la conferencia de prensa sobre el lanzamiento del primer video y audio d
 
 Este es un desglose de cómo resolver ese código en inglés. Puedes descargar [todo como un PDF imprimible](https://github.com/tanyafish/parachute/blob/main/The%20Parachute%20Message.pdf), optimizado para papel A4.
 
-No dudes en reutilizarlo con fines educativos o personales, pero no lo vendas, revendas ni uses para ningún otro propósito comercial. Tiene la [licencia Creative Commons CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+No dudes en reutilizarlo con fines educativos o personales, pero no lo vendas, revendas ni uses para ningún otro propósito comercial. Tiene la [licencia Creative Commons CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
 
 Si tienes una traducción, abre un pull request (solicitud de extracción) y haré una versión con texto reemplazado.
 
@@ -32,13 +34,15 @@ t xx
 
 ---
 
-# Het Parachute Bericht
-Tijdens de persbericht van de NASA met de eerste video met geluid van de Perseverance, onthulde Allen Chen dat er een code verstopt zat in de parachute. De markeringen waren ook handig om de camera's uit te lijnen.
+#### Nederlands
 
-Dit is een stap-voor-stap uitleg hoe je de code moet kraken in simpel Nederlands. Je kunt het als [PDF downloaden, om te printen op A4 formaat.](https://github.com/tanyafish/parachute/blob/main/Het_Parachute_Bericht_NL.pdf)
+# Het Parachute Bericht/Boodschap
+Tijdens de recentie persconferentie van de NASA waarin de eerste video, met geluid, opgenomen van de Perseverance (Standvastigheid) rover publiek beschikbaar gesteld werd onthulde Allen Chen dat, naast speciale markeringen die gebruikt worden om de camera uit te leijnen, er een code verstopt zat in de parachute.
 
-Voel je vrij om het te gebruiken voor educatieve of persoonlijke toepassingen, maar het is verboden om het te verkopen, door te verkopen of te gebruiken voor commerciele toepassingen. Het is gelicenseerd onder de [Creative Commons CC-BY-NC 4.0 licentie](https://creativecommons.org/licenses/by-nc/4.0/deed.nl)
+Wat hier volgt is een uitenzetting in simpel Nederlands voor hoe je zelf die code leesbar kunt maken. Je kunt het geheel [downloaden als uitprintbare DPF, geoptimaliseerd voor A4 papier.](https://github.com/tanyafish/parachute/blob/main/Het_Parachute_Bericht_NL.pdf)
 
-Als je een vertaling hebt, open dan een _pull request_ en dan maak ik een versie met vertaalde tekst.
+Je bent vrij om deze PDF te hergebruiken voor educatieve of persoonlijke doeleinden, maar je mag hem niet verkopen, doorverkopen, of anderszijds commercieel gebruiken. Op de PDF is de [Creative Commons CC-BY-NC 4.0 licentie van toepassing.](https://creativecommons.org/licenses/by-nc/4.0/deed.nl)
 
-Happy parachuting!
+Als je een vertaling voor dit document hebt gemaakt, open dan alsjeblieft een _pull request_ en ik zal een versie maken met de aangepaste tekst.
+
+Happy parachuting! / Viel plezier met de parachute!
