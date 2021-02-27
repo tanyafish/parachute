@@ -15,7 +15,7 @@ t xx
 # Het Parachute Bericht
 Tijdens de persbericht van de NASA met de eerste video met geluid van de Perseverance, onthulde Allen Chen dat er een code verstopt zat in de parachute. De markeringen waren ook handig om de camera's uit te lijnen.
 
-Dit is een stap-voor-stap uitleg hoe je de code moet kraken in simpel Nederlands. Je kunt het als PDF downloaden, om te printen op A4 formaat.
+Dit is een stap-voor-stap uitleg hoe je de code moet kraken in simpel Nederlands. Je kunt het als [PDF downloaden, om te printen op A4 formaat.](https://github.com/tanyafish/parachute/blob/main/Het_Parachute_Bericht_NL.pdf)
 
 Voel je vrij om het te gebruiken voor educatieve of persoonlijke toepassingen, maar het is verboden om het te verkopen, door te verkopen of te gebruiken voor commerciele toepassingen. Het is gelicenseerd onder de [Creative Commons CC-BY-NC 4.0 licentie](https://creativecommons.org/licenses/by-nc/4.0/deed.nl)
 
