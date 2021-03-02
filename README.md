@@ -37,12 +37,12 @@ t xx
 #### Nederlands
 
 # Het Parachute Bericht/Boodschap
-Tijdens de recentie persconferentie van de NASA waarin de eerste video, met geluid, opgenomen van de Perseverance (Standvastigheid) rover publiek beschikbaar gesteld werd onthulde Allen Chen dat, naast speciale markeringen die gebruikt worden om de camera uit te leijnen, er een code verstopt zat in de parachute.
+Tijdens de recente persconferentie van de NASA waarin de eerste video met geluid, opgenomen van de Perseverance (Standvastigheid) rover publiek beschikbaar gesteld werd, onthulde Allen Chen dat, naast speciale markeringen die gebruikt worden om de camera uit te lijnen, er een code verstopt zat in de parachute.
 
-Wat hier volgt is een uitenzetting in simpel Nederlands voor hoe je zelf die code leesbar kunt maken. Je kunt het geheel [downloaden als uitprintbare DPF, geoptimaliseerd voor A4 papier.](https://github.com/tanyafish/parachute/blob/main/Het_Parachute_Bericht_NL.pdf)
+Wat hier volgt is een uiteenzetting in simpel Nederlands voor hoe je zelf die code leesbaar kunt maken. Je kunt het geheel [downloaden als uitprintbare PDF, geoptimaliseerd voor A4 papier.](https://github.com/tanyafish/parachute/blob/main/Het_Parachute_Bericht_NL.pdf)
 
 Je bent vrij om deze PDF te hergebruiken voor educatieve of persoonlijke doeleinden, maar je mag hem niet verkopen, doorverkopen, of anderszijds commercieel gebruiken. Op de PDF is de [Creative Commons CC-BY-NC 4.0 licentie van toepassing.](https://creativecommons.org/licenses/by-nc/4.0/deed.nl)
 
 Als je een vertaling voor dit document hebt gemaakt, open dan alsjeblieft een _pull request_ en ik zal een versie maken met de aangepaste tekst.
 
-Happy parachuting! / Viel plezier met de parachute!
+Happy parachuting! / Veel plezier met de parachute!
