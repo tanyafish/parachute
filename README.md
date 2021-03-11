@@ -16,6 +16,12 @@ t xx
 
 ---
 
+#### Deutsch
+
+# Die Fallschirmbotschaft
+
+[Hier ist das PDF ins Deutsche übersetzt.](https://github.com/tanyafish/parachute/blob/main/DE_die_fallschirmbotschaft.pdf)
+
 #### Español
 
 # El mensaje del paracaídas
